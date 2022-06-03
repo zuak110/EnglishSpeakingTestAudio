@@ -1,0 +1,2 @@
+# EnglishSpeakingTestAudio
+一个包含了多种口语考试题型对应的语音文件的英语口语测试语音库
